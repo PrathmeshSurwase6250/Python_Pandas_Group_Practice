@@ -1,0 +1,31 @@
+student_id,name,age,city,course,marks,attendance,study_hours_per_week,placement_status,join_date
+ST001,Aarav,18,Kolhapur,IT,78.0,62.0,16,Not Placed,2024-06-12
+ST002,Diya,23,Mumbai,ENTC,44.0,98.0,29,Placed,2023-06-16
+ST003,Ishaan,19,Pune,ENTC,43.0,68.0,14,Not Placed,2023-09-21
+ST004,Meera,20,Pune,IT,,92.0,29,Interviewing,2023-10-21
+ST005,Kabir,20,Mumbai,Computer,47.0,68.0,26,Placed,2023-12-01
+ST006,Anaya,22,Kolhapur,Computer,92.0,,31,Placed,2024-10-11
+ST007,Rohan,18,Kolhapur,ENTC,97.0,79.0,25,Not Placed,2024-05-26
+ST008,Gauri,23,Nagpur,Mechanical,42.0,57.0,7,Not Placed,2024-08-17
+ST009,Vivek,20,,Mechanical,44.0,79.0,12,Interviewing,2023-11-29
+ST010,Nisha,20,Mumbai,ENTC,51.0,97.0,12,Not Placed,2023-08-23
+ST011,Aditya,20,Nagpur,Mechanical,67.0,79.0,5,Not Placed,2024-07-25
+ST012,Sara,21,Kolhapur,Computer,,75.0,15,Interviewing,2023-09-17
+ST013,Om,21,Aurangabad,IT,79.0,86.0,18,Not Placed,2023-10-05
+ST014,Priya,22,Kolhapur,ENTC,85.0,90.0,29,Not Placed,2023-12-03
+ST015,Kunal,22,Aurangabad,Computer,52.0,63.0,5,Placed,2023-08-18
+ST016,Ira,23,Solapur,ENTC,78.0,65.0,6,Not Placed,2023-12-13
+ST017,Rahul,22,Kolhapur,ENTC,76.0,84.0,2,Placed,2024-05-15
+ST018,Sana,20,Satara,Computer,94.0,,20,Not Placed,2023-08-20
+ST019,Dev,23,Kolhapur,ENTC,67.0,55.0,13,Placed,2024-08-19
+ST020,Pooja,23,Nagpur,IT,78.0,74.0,25,Not Placed,2024-03-03
+ST021,Arjun,18,Satara,Civil,,88.0,3,Placed,2024-09-18
+ST022,Maya,19,Pune,IT,61.0,74.0,7,Placed,2024-06-09
+ST023,Neel,22,Nashik,IT,69.0,59.0,32,Not Placed,2023-10-14
+ST024,Tara,21,Nagpur,ENTC,71.0,93.0,14,Interviewing,2023-12-22
+ST025,Yash,20,Aurangabad,ENTC,80.0,96.0,30,Placed,2023-10-05
+ST026,Aditi,20,Pune,ENTC,52.0,59.0,16,Not Placed,2023-06-04
+ST027,Sahil,23,Pune,IT,42.0,100.0,6,Placed,2024-08-14
+ST028,Riya,22,Nagpur,Mechanical,59.0,59.0,33,Not Placed,2024-03-03
+ST029,Manav,22,Aurangabad,IT,46.0,91.0,32,Not Placed,2023-09-06
+ST030,Kavya,23,Solapur,Mechanical,44.0,61.0,29,Not Placed,2024-01-26
